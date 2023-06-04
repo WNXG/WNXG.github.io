@@ -1,0 +1,27 @@
+changeFigure: -right -next;
+changeFigure:junsikao.png -right -next;
+文俊辉:怎么想，这个学校的大帅哥都非我莫属吧;
+:如此说着，就准备提笔迅速在自己名字下方添上一笔。;
+changeBg:bc3.png -next;
+changeFigure: -right -next;
+changeFigure:junxiao.png -right -next;
+文俊辉:好了……;
+冷冰凝傲雪未X名:………;
+•᷄ᯅ•᷅ 你好自恋哦！;
+changeFigure: -right -next;
+changeFigure:zm.png -right -next;
+文俊辉:不…不行吗！;
+你也没说不可以给自己投呀;
+全圆佑肯定也投自己了吧Ծ‸Ծ;
+冷冰凝傲雪未X名:欸！他投的是你诶！;
+changeFigure: -right -next;
+changeFigure:jun hong2.png -right -next;
+这么想着突然觉得有的人前途渺茫呢;
+文俊辉:哈？什么啦！;
+冷冰凝傲雪未X名:没什么！;
+changeFigure: -left -next;
+:说着未某某就拿着投票纸回剩余二人身边，三个人叽叽咕咕商量着什么。时不时一脸忧愁地摇摇头。;
+changeFigure: -right -next;
+changeFigure:junwuyu.png -right -next;
+文俊辉:果然还是很奇怪……;
+changeScene:体育课.txt

@@ -1,0 +1,11 @@
+changeBg:school_corridor_a.jpg -next;
+changeFigure:junxiao.png -next;
+文俊辉:算了…调查的事情可以以后再说，还是撸串比较重要;
+changeFigure: -next;
+changeBg:town_park_b.jpg -next;
+:放学以后和丸糯小狗开心的去路边摊大吃特吃;
+changeFigure:junxiao.png -left -next;
+文俊辉:……烤串……果然很好吃呢！;
+可惜今天螺蛳粉卖完了，明天再来吧！;
+changeFigure: -left -next;
+choose:明天还要来撸串！:be0.txt|明天一定要吃到螺蛳粉！！:be0.txt|哼哼，大全套我势在必得！！！:be0.txt;

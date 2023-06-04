@@ -1,0 +1,19 @@
+changeBg:mtl.jpg -next;
+bgm:SWEETEST THING.mp3;
+:远远望去，摩天轮矗立在夕阳的余晖下;
+:高耸入云，如同一簇盛开的繁花，散发着迤逦的气息;
+changeFigure:junxiao.png -next;
+文俊辉:真的能看到！;
+changeFigure:jww.png -left -next;
+全圆佑:很漂亮吧？;
+文俊辉:很漂亮！;
+changeFigure: -next;
+changeFigure: -left -next;
+changeBg:none;
+changeBg:mtllove.png -next;
+:文俊辉扭头，看到全圆佑收回望着他的视线，推眼镜的手挡不住勾起的嘴角。  ;
+:夕阳斜斜倾斜，摩天轮徐徐旋转，如花簇烂漫成团浸在夕光中。;
+:他在晚照里瞧见全圆佑的嘴唇张合。;
+全圆佑:的确很漂亮。;
+changeBg: -next;
+changeScene:第二天.txt

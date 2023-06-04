@@ -1,0 +1,11 @@
+文俊辉:（怎么想，都是对方的一番好意。拒绝也不太好吧。）;
+changeFigure:none -next;
+changeFigure:junxiao.png -next;
+那就谢谢圆佑了！我会回去好好享用的～;
+changeFigure: -left -next;
+changeFigure:jwwxiao.png -left -next;
+全圆佑:嗯！吃得开心。;
+文俊辉:（那就赶紧结账回家吧）;
+changeFigure: -next;
+changeFigure: -left -next;
+choose:回家:回家2.txt;

@@ -1,0 +1,2 @@
+intro:第二天;
+changeScene:班草.txt

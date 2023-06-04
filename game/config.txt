@@ -1,0 +1,5 @@
+Game_name:欢迎来到佑灰的世界;
+Game_key:d17cdc31e97d808;
+Package_name:;
+Title_bgm:luohua.mp3;
+Title_img:fm.png;

@@ -1,0 +1,16 @@
+intro:第二天;
+changeBg:school_corridor_b.jpg -next;
+老师:下课 -ling.mp3;
+changeBg:town_park_b.jpg -next;
+changeFigure:jun.png -left -next;
+文俊辉:老板！要一份大全套！螺蛳粉加臭加辣！！！;
+好像…忘记了什么事情…;
+算了…想来也不是什么很重要的事情……还有什么比撸串更重要的吗！;
+changeFigure:wnxg.png -right -next;
+丸糯小狗:（小声）俊辉，听说好像我们班有人计划表白呢.....;
+文俊辉:什么？;
+丸糯小狗:没，没什么，没什么，吃串！嗦粉！;
+changeFigure: -left -next;
+changeFigure: -right -next;
+bgm:none;
+changeScene:be3.txt

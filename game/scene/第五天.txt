@@ -1,0 +1,10 @@
+intro:第五天;
+changeBg:jiaoshi b.jpg -next;
+老师:下课 -ling.mp3;
+bgm:xuexiao.mp3;
+changeFigure:junsikao.png -next;
+文俊辉:全圆佑果然一下课就跑了呢……;
+是去天台了吗？;
+究竟要和我说什么呢……;
+choose:【去天台】:天台舞王.txt;
+bgm:none;

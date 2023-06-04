@@ -1,0 +1,7 @@
+changeBg:jiaoshi a.jpg;
+bgm:bgm1.mp3;
+老师:下课！ -ling.mp3;
+changeFigure:jun.png;
+文俊辉:时间过的好快呀，一转眼就周四了。;
+这么想着我已经调查三天的全圆佑了，今天也要继续吗;
+choose:继续:买螺蛳粉2.txt|不继续:买螺蛳粉3.txt;

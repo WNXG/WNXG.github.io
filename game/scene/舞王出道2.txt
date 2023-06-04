@@ -1,0 +1,13 @@
+intro:一年后;
+bgm: a song for love.mp3;
+changeBg:006USrJ6ly1h4lk41mzlpj31z4140ttx.jpg -next;
+:全圆佑以绝佳舞姿席卷大江南北，一举收获最受欢迎新人奖等等奖项。;
+changeBg:cf.png -next;
+:颁奖典礼过后，主持人采访他关于出道历程，他顿了顿，说要感谢初恋;
+:“那初恋怎么样了呢？”主持人问。;
+:全圆佑看向镜头，目光灼灼;
+changeBg:mtllove.png -next;
+:我依旧还在等着他一起和我去看摩天轮。;
+intro:【结局2—舞王出道】;
+playVideo:end.mp4;
+end;

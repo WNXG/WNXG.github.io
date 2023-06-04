@@ -1,0 +1,3 @@
+intro:你好|欢迎来到wonhui的爱情世界|打开游戏即默认佑灰是真的;
+changeBg:000.png;
+choose:【我已知晓】:001.txt;

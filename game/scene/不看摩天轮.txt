@@ -1,0 +1,17 @@
+changeBg:tt b.jpg -next;
+changeFigure:jwwxiao.png -next;
+changeFigure:junxiao.png -right -next;
+文俊辉:是街心公园新开的摩天轮吗？;
+全圆佑:对;
+changeFigure: -right -next;
+changeFigure: -next;
+changeFigure:jww.png -next;
+changeFigure:jun.png -right -next;
+文俊辉:现在是18:24，还有时间;
+changeFigure: -right -next;
+changeFigure:junxiao.png -right -next;
+快走！;
+:文俊辉突然拉起全圆佑的手急匆匆地离开天台;
+changeFigure: -right -next;
+changeFigure: -next;
+changeScene:不看摩天轮2.txt

@@ -1,0 +1,22 @@
+bgm:beishang.mp3;
+intro:几日后…;
+changeBg:xinwen.jpg;
+H市快讯:插播一则最新消息：今日一学生在马路上被高速行驶过的卡车撞倒。;
+据悉该学生是普莱蒂斯高二学生，男。事发前和家中说正准备前往XX超市购买螺蛳粉……;
+道路千万条，安全第一条，H市新闻在此提醒您……;
+changeFigure:junzj.png -next;
+文俊辉:不会的。;
+:文俊辉在心中安慰自己，可是寒意依旧顺着脊椎爬行，心跳快得出奇。;
+:不会的。;
+:不会的！;
+:但身体先行一步，不等新闻播放完毕，他扔下筷子，夺门而出，把父母焦急的呼喊声甩在身后。 -kuaipao.mp3;
+changeBg:town_park_b.jpg -next;
+changeFigure: -next;
+changeFigure:junku.png -next;
+:拼命向前奔跑，喉咙似乎被心脏堵住了。XX超市似乎格外遥远，文俊辉只觉得身体中每一丝空气都要离开，五脏六腑燃烧般剧痛。 -kuaipao.mp3;
+:世界安静得出奇，他听不到一点声音。 -kuaipao.mp3;
+bgm:none;
+changeBg: -next;
+changeFigure: -next;
+intro:【结局1—两个世界】;
+changeScene:fanwai.txt
